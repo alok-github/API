@@ -1,6 +1,6 @@
 # API_Docs
 
-欢迎有优秀做市策略且交易量大的用户参与做市商项目，如果您有疑问请发送邮件至：support@alok.pro。
+欢迎有优秀做市策略且交易量大的用户参与做市商项目，如果您有疑问请发送邮件至：alokglobalpro@gmail.com。
 
 目前关于apikey申请和修改，请在“API设置”页面进行相关操作。<br>
 [签名认证(重要，请仔细阅读)](https://github.com/alok-github/API/wiki/REST_authentication)
